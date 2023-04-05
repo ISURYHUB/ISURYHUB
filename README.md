@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm ISURY</h1>
 <h3 align="center">A passionate student of technology from France</h3>
 
-- 🔭 I’m currently working on [https://github.com/ISURYHUB/site_MDL_Camus_Sermenaz](https://github.com/ISURYHUB/site_MDL_Camus_Sermenaz)
-
-- 🌱 I’m currently learning **C++**
-
 - 👨‍💻 All of my projects are available at [https://isuryhub.github.io/portfolio/](https://isuryhub.github.io/portfolio/)
 
 - 📫 How to reach me **isumairu.ikigai@gmail.com**
